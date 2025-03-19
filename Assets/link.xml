@@ -1,0 +1,159 @@
+﻿
+
+<linker>
+
+	<assembly fullname="mscorlib">
+	    <type fullname="System.Object" preserve="all"/>
+		<type fullname="System.Collections.Generic.List`1[System.Int32]" preserve="all"/>
+		
+	</assembly>
+
+	<assembly fullname="UnityEngine.CoreModule">
+	    <type fullname="UnityEngine.Object" preserve="all"/>
+		<type fullname="UnityEngine.Vector2" preserve="all"/>
+		<type fullname="UnityEngine.Vector3" preserve="all"/>
+		<type fullname="UnityEngine.Vector4" preserve="all"/>
+		<type fullname="UnityEngine.Quaternion" preserve="all"/>
+		<type fullname="UnityEngine.Color" preserve="all"/>
+		<type fullname="UnityEngine.Ray" preserve="all"/>
+		<type fullname="UnityEngine.Bounds" preserve="all"/>
+		<type fullname="UnityEngine.Ray2D" preserve="all"/>
+		<type fullname="UnityEngine.Time" preserve="all"/>
+		<type fullname="UnityEngine.Random" preserve="all"/>
+		<type fullname="UnityEngine.GameObject" preserve="all"/>
+		<type fullname="UnityEngine.Component" preserve="all"/>
+		<type fullname="UnityEngine.Behaviour" preserve="all"/>
+		<type fullname="UnityEngine.Transform" preserve="all"/>
+		<type fullname="UnityEngine.Resources" preserve="all"/>
+		<type fullname="UnityEngine.TextAsset" preserve="all"/>
+		<type fullname="UnityEngine.Keyframe" preserve="all"/>
+		<type fullname="UnityEngine.AnimationCurve" preserve="all"/>
+		<type fullname="UnityEngine.MonoBehaviour" preserve="all"/>
+		<type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all"/>
+		<type fullname="UnityEngine.Mesh" preserve="all"/>
+		<type fullname="UnityEngine.Material" preserve="all"/>
+		<type fullname="UnityEngine.Renderer" preserve="all"/>
+		<type fullname="UnityEngine.Light" preserve="all"/>
+		<type fullname="UnityEngine.Texture2D" preserve="all"/>
+		<type fullname="UnityEngine.Sprite" preserve="all"/>
+		<type fullname="UnityEngine.Mathf" preserve="all"/>
+		<type fullname="UnityEngine.Debug" preserve="all"/>
+		<type fullname="UnityEngine.WaitForSeconds" preserve="all"/>
+		
+	</assembly>
+
+	<assembly fullname="UnityEngine.AnimationModule">
+	    <type fullname="UnityEngine.Animator" preserve="all"/>
+		<type fullname="UnityEngine.AnimationClip" preserve="all"/>
+		
+	</assembly>
+
+	<assembly fullname="UnityEngine.ParticleSystemModule">
+	    <type fullname="UnityEngine.ParticleSystem" preserve="all"/>
+		
+	</assembly>
+
+	<assembly fullname="UnityEngine.VFXModule">
+	    <type fullname="UnityEngine.VFX.VisualEffect" preserve="all"/>
+		
+	</assembly>
+
+	<assembly fullname="UnityEngine.PhysicsModule">
+	    <type fullname="UnityEngine.Collider" preserve="all"/>
+		<type fullname="UnityEngine.MeshCollider" preserve="all"/>
+		
+	</assembly>
+
+	<assembly fullname="UnityEngine.VideoModule">
+	    <type fullname="UnityEngine.Video.VideoPlayer" preserve="all"/>
+		
+	</assembly>
+
+	<assembly fullname="UnityEngine.AudioModule">
+	    <type fullname="UnityEngine.AudioClip" preserve="all"/>
+		<type fullname="UnityEngine.AudioSource" preserve="all"/>
+		
+	</assembly>
+
+	<assembly fullname="Unity.Splines">
+	    <type fullname="UnityEngine.Splines.Spline" preserve="all"/>
+		<type fullname="UnityEngine.Splines.SplineContainer" preserve="all"/>
+		<type fullname="UnityEngine.Splines.SplineAnimate" preserve="all"/>
+		<type fullname="UnityEngine.Splines.SplineComponent" preserve="all"/>
+		
+	</assembly>
+
+	<assembly fullname="Unity.InputSystem">
+	    <type fullname="UnityEngine.InputSystem.InputActionAsset" preserve="all"/>
+		<type fullname="UnityEngine.InputSystem.InputAction" preserve="all"/>
+		<type fullname="UnityEngine.InputSystem.InputActionReference" preserve="all"/>
+		<type fullname="UnityEngine.InputSystem.InputDevice" preserve="all"/>
+		<type fullname="UnityEngine.InputSystem.InputActionType" preserve="all"/>
+		<type fullname="UnityEngine.InputSystem.InputActionChange" preserve="all"/>
+		
+	</assembly>
+
+	<assembly fullname="Unity.XR.Interaction.Toolkit">
+	    <type fullname="UnityEngine.XR.Interaction.Toolkit.Interactors.XRSocketInteractor" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Transformers.XRSocketGrabTransformer" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Transformers.XRSingleGrabFreeTransformer" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactors.XRSelectInteractorExtensions" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactors.XRRayInteractor" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactors.XRPokeInteractor" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactors.XRInteractorExtensions" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Transformers.XRGeneralGrabTransformer" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Transformers.XRBaseGrabTransformer" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactors.XRBaseInputInteractor" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactors.XRBaseInteractor" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactors.XRDirectInteractor" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Transformers.XRDualGrabFreeTransformer" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactables.XRBaseInteractable" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactables.XRGrabInteractable" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactables.XRSimpleInteractable" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactables.XRFocusInteractableExtensions" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactables.XRHoverInteractableExtensions" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactables.XRSelectInteractableExtensions" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.SelectEnterEventArgs" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.BaseInteractionEventArgs" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.FocusExitEventArgs" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.ActivateEventArgs" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.DeactivateEventArgs" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactables.IXRInteractable" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactors.IXRInteractor" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactables.IXRSelectInteractable" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactors.IXRSelectInteractor" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactables.IXRActivateInteractable" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactors.IXRActivateInteractor" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactables.IXRFocusInteractable" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactables.IXRHoverInteractable" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactors.IXRHoverInteractor" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactables.IXRInteractionStrengthInteractable" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Interactors.IXRInteractionStrengthInteractor" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.SelectEnterEvent" preserve="all"/>
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.SelectExitEvent" preserve="all"/>
+		
+	</assembly>
+
+	<assembly fullname="Unity.TextMeshPro">
+	    <type fullname="TMPro.TMP_Text" preserve="all"/>
+		<type fullname="TMPro.TMP_Dropdown" preserve="all"/>
+		
+	</assembly>
+
+	<assembly fullname="UnityEngine.UI">
+	    <type fullname="UnityEngine.UI.Button" preserve="all"/>
+		<type fullname="UnityEngine.UI.Slider" preserve="all"/>
+		
+	</assembly>
+
+	<assembly fullname="Assembly-CSharp">
+	    <type fullname="ImmerzaSDK.Lua.LuaAsset" preserve="all"/>
+		<type fullname="ImmerzaSDK.BreathingDetection" preserve="all"/>
+		<type fullname="ImmerzaSDK.ImmerzaEvents" preserve="all"/>
+		<type fullname="ImmerzaSDK.MultipathContainer" preserve="all"/>
+		<type fullname="ImmerzaSDK.Lua.LuaComponent" preserve="all"/>
+		
+	</assembly>
+
+</linker>

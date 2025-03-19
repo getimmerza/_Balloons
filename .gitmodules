@@ -1,0 +1,3 @@
+[submodule "Assets/immerza-sdk"]
+	path = Assets/Immerza
+	url = https://github.com/getimmerza/immerza-sdk.git

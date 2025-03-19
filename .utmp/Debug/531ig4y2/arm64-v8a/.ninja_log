@@ -1,0 +1,12 @@
+# ninja log v5
+28	222	7639393411989444	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	4b5c28790cb454c2
+224	352	7639393413281665	C:/Users/traut/Desktop/immerza/balloon-game-v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/531ig4y2/obj/arm64-v8a/libswappywrapper.so	f1a8e9c72f6fc802
+4	858	7639393418283894	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	fd29d6468f47100
+10	860	7639393418293964	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4c282f655dddfb44
+24	866	7639393418420201	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	6c560466b958d20c
+20	874	7639393418500653	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7db7c3400a6842a7
+0	904	7639393418845924	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f257ee3371c84d5e
+13	910	7639393418871099	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e838935157b3c904
+16	950	7639393419270166	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7f0d82ff7ccd50fb
+7	984	7639393419569217	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b24c2cab88326ea6
+984	1068	7639393420422740	C:/Users/traut/Desktop/immerza/balloon-game-v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/531ig4y2/obj/arm64-v8a/libgame.so	1ea80c6c20b220e
